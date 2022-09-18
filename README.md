@@ -1,2 +1,5 @@
-# weather-app
-A website to get the weather forecast 
+# Template
+- Ready made file structure to work with
+  - webpack 
+  - tailwindcss
+  - eslint
