@@ -1,2 +1,2 @@
-# template-repo
-A template repo with setup of  wepack , tailwindcss ,jest , babel and eslint together
+# template
+This is a template repo to configure jest , babel , webpack and eslint together 
